@@ -1,2 +1,2 @@
 #!/bim/bash
-tr -d "Cc"
+tr -d "*Cc"
